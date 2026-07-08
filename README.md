@@ -15,3 +15,6 @@ Bu proje C++ programlama dili ödevi kapsamında hazırlanmıştır.
 ## Geliştirici
 
 Anıl Üstün
+## Not
+
+Bu proje Ankara Medipol Üniversitesi C++ dersi kapsamında hazırlanmıştır.
