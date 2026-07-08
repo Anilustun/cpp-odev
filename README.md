@@ -18,3 +18,6 @@ Anıl Üstün
 ## Not
 
 Bu proje Ankara Medipol Üniversitesi C++ dersi kapsamında hazırlanmıştır.
+## Not
+
+Bu proje Ankara Medipol Üniversitesi C++ dersi kapsamında hazırlanmıştır.
